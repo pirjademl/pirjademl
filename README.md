@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a full stack developer . Curious about everything in the tech 
+I am currently learning web developement one step at a time one round at a time
+
 
 
 ## 🌐 Socials:
