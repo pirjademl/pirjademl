@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning web developement one step at a time one round at a time
+Hi I am a full stack engineer , tinkerer. Curious about how things are working under the hood. Love to study database internals, backend technolgies and devops. Currently working with microservices architecture.I frequently share my learning through my blogs.
 
 
 
